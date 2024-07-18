@@ -1,6 +1,4 @@
-# Final project
-
-This is the final project for [learnjavascript.online](https://learnjavascript.online). It is a toy nutrition calculator using Vanilla JavaScript.
+A toy nutrition calculator using Vanilla JavaScript (of course, HTML + CSS)
 
 
 ## Setup
